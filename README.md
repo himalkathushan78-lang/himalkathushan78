@@ -35,19 +35,11 @@ I am a software developer and B.Sc. Honours in Computer Science undergraduate in
 
 ---
 
-## 🏗️ Featured Projects
-
-* **Zuboo E-Bike Web Portal:** Designed and developed a comprehensive showroom management system to handle e-bike inventory, sales tracking, and automated invoice generation using PHP and MySQL. 
-* **Railway Ticket Booking System:** A web-based train reservation platform built with HTML, CSS, and JavaScript.
-* **Fuel Requesting System:** A vehicle fuel requisition and verification system leveraging JavaScript, HTML/CSS, and Google Apps Script integrated with Google Sheets.
-
----
 
 ## 📊 GitHub Stats
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the links below to make the stats work)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himalkathushan78-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himalkathushan78-lang&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
